@@ -43,5 +43,5 @@ public abstract class Fruit {
         System.out.println("Съесть " + getColor() + " " + getTaste() + " " + getName());
     };
 
-    public abstract void prepare();
+    public abstract void prepareFruit();
 }

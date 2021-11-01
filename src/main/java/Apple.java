@@ -5,7 +5,7 @@ public class Apple extends Fruit{
     }
 
     @Override
-    public void prepare() {
+    public void prepareFruit() {
         System.out.println("Помыть яблоко");
     }
 }

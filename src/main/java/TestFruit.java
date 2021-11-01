@@ -5,13 +5,13 @@ public class TestFruit {
         Orange orange = new Orange("апельсин","оранжевый","кислый");
         Banana banana = new Banana("банан", "желтый", "сладкий");
 
-        apple.prepare();
+        apple.prepareFruit();
         apple.eatFruit();
 
-        orange.prepare();
+        orange.prepareFruit();
         orange.eatFruit();
 
-        banana.prepare();
+        banana.prepareFruit();
         banana.eatFruit();
     }
 }
