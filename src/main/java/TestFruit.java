@@ -13,6 +13,5 @@ public class TestFruit {
 
         banana.prepare();
         banana.eatFruit();
-
     }
 }

@@ -8,5 +8,4 @@ public class Apple extends Fruit{
     public void prepare() {
         System.out.println("Помыть яблоко");
     }
-
 }

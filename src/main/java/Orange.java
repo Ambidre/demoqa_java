@@ -8,5 +8,4 @@ public class Orange extends Fruit{
     public void prepare() {
         System.out.println("Почистить апельсин");
     }
-
 }

@@ -13,6 +13,7 @@ public abstract class Fruit {
         this.color = color;
         this.taste = taste;
     }
+
     //getters and setters
     public String getName() {
         return name;
@@ -43,6 +44,4 @@ public abstract class Fruit {
     };
 
     public abstract void prepare();
-
-
 }
